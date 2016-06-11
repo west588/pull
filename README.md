@@ -1,0 +1,2 @@
+# pull
+only pull
